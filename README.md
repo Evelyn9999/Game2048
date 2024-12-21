@@ -14,6 +14,6 @@ Nov 2024
 ## Overview
 
 The classic game 2048. 
-Implemented main funtions including moving tiles, making calculations of colliding tiles.
+Main funtions were implemented by me, including moving tiles, making calculations of colliding tiles.
 
 
