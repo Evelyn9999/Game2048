@@ -2,18 +2,21 @@
 
 
 
-## Source
+## Source of Stucture
 
-cs61b 2024
+ucb61b 2024
 
 
 ## Update Date
-Nov 2024
+
+May 2024
 
 
 ## Overview
 
-The classic game 2048. 
-Main funtions were implemented by me, including moving tiles, making calculations of colliding tiles.
+The classic game 2048.
 
 
+## Main Contributions
+
+Implemented core functionalities, including tile movement and collision calculations, ensuring accurate behavior and interactions within the application.
