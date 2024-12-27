@@ -20,3 +20,7 @@ The classic game 2048.
 ## Main Contributions
 
 Implemented core functionalities, including tile movement and collision calculations, ensuring accurate behavior and interactions within the application.
+
+
+## Demo Link
+https://youtu.be/t-Qqa4R_Uu4
